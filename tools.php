@@ -28,6 +28,7 @@
         print('<hr>'.PHP_EOL);
     }
     /**
+     * print <hr>
      */
     function do_pre_html(){
         print'<!DOCTYPE html>
